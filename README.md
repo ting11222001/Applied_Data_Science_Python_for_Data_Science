@@ -1,5 +1,6 @@
-# Materials is from IBM Cognitive Class.ai
-I'm trying this learning path as a complete beginner to data science field: Applied Data Science with Python path (https://cognitiveclass.ai/learn/data-science-with-python) 
+# This material is from IBM Cognitive Class.ai
+I'm trying this learning path as a complete beginner to data science field: <br/>
+Applied Data Science with Python path (https://cognitiveclass.ai/learn/data-science-with-python) 
 
 ## Course 1: Python for Data Science
 This free Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own!
